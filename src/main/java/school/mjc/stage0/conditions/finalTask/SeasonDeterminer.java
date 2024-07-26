@@ -1,7 +1,5 @@
 package school.mjc.stage0.conditions.finalTask;
 
-import java.util.Random;
-
 public class SeasonDeterminer {
     public void tellTheSeason(int monthNumber) {
         switch (monthNumber) {

@@ -1,7 +1,5 @@
 package school.mjc.stage0.conditions.finalTask;
 
-import java.util.Random;
-
 public class TriangleSidesValidator {
     public void validate(double firstSide, double secondSide, double thirdSide) {
         if (firstSide <= 0.0 || secondSide <= 0.0 || thirdSide <= 0.0) {

@@ -1,7 +1,5 @@
 package school.mjc.stage0.conditions.finalTask;
 
-import java.util.Random;
-
 public class DaysInMonth {
     public void printDays(int year, int month) {
         switch (month) {
